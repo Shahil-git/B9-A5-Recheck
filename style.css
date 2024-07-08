@@ -1,0 +1,32 @@
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+header {
+    background: #1DD100;
+}
+
+.navbar {
+    background: #030712;
+}
+
+.navbar a {
+    color: #FFFFFF;
+}
+
+.banner {
+    background: linear-gradient(180deg, #03071280, #03071200), url(./images/banner.png) no-repeat center center;
+    background-size: cover;
+    height: 77vh;
+}
+
+.btn {
+    background: #1DD100;
+    color: #FFFFFF;
+}
+
+.footer {
+    background: #212121;
+    color: #FFFFFF;
+}
